@@ -1,9 +1,10 @@
-title: "Raúl González Cruz"
+name: "Raúl González Cruz"
+job: "Software Engineer"
 email: raul.gonzalezcz@udlap.mx
 description: >- # this means to ignore newlines until "baseurl:"
   Hi there! This is my portfolio. Enjoy it!
 baseurl: "/" 
-url: "https://robbie.dev/" 
+url: "https://raulgonzalezcz.github.io/" 
 twitter_username: raulgonzalezcz
 github_username:  raulgonzalezcz
 
